@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomMaterialButton">
+        <attr name="btnText" format="string" />
+        <attr name="btnTextSize" format="dimension" />
+        <attr name="btnTextColor" format="color" />
+        <attr name="btnIcon" format="integer" />
+        <attr name="btnBackgroundColor" format="color" />
+        <attr name="btnCornerRadius" format="integer" />
+    </declare-styleable>
+</resources>
